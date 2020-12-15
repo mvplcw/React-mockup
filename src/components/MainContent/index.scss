@@ -1,0 +1,75 @@
+.bottom-margin-160{
+  margin-bottom:160px;
+}
+
+.col-lg-5 a img{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.row{
+  height: 100%;
+}
+
+.zero-padding{
+  padding: 0;
+}
+
+.base-padding{
+  padding: 20px;
+  padding-bottom: 0;
+
+  .active-word{
+    color: #7C60FF;
+  }
+
+  table{
+    width:100%;
+
+    tbody{
+      width: 100%;
+
+      th:nth-child(1), th:nth-child(3){
+        width: 50px;
+      }
+    }
+  }
+}
+
+.base-bottom{
+  margin-top: 20px;
+  bottom:0;
+  position: absolute;
+  width: 100%;
+
+  .base-btn{
+    padding: 15px;
+    background-color: #F5F6F7;
+    bottom: 0;
+  }
+
+  .base-btn-active{
+    color: #42B72A;
+  }
+}
+
+.imageDiv{
+  height: 100%;
+}
+
+.iconSize{
+  margin: 5px;
+}
+
+i{
+  margin: 10px;
+}
+
+.black-font{
+  color: black;
+}
+
+.forty-font{
+  font-size: 40px;
+}

@@ -1,0 +1,33 @@
+*{
+  margin:0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: "Open Sans";
+}
+
+h1,h2,h3,h4,h5,h6,p,a,div{
+  font-family: "Open Sans";
+}
+
+p,h6,i,div{
+  font-size: 14px;
+}
+
+.row {
+  height: 100%;
+}
+
+.grey-text{
+  color: #8A8F9C;
+}
+
+.consistent-padding-10{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.bottom-margin {
+  margin-bottom: 50px;
+}
