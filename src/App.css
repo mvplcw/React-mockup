@@ -31,3 +31,7 @@ p,h6,i,div{
 .bottom-margin {
   margin-bottom: 50px;
 }
+
+.navbar-nav{
+  flex-direction: column;
+}
